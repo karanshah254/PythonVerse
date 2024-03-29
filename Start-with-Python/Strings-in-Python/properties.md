@@ -1,0 +1,1 @@
+- >Strings are immutable i.e. modification in original string is not allowed in python
