@@ -1,0 +1,12 @@
+h1,
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: lightgrey;
+    text-decoration: underline;
+}
+
+body {
+    background-color: darkcyan;
+}
