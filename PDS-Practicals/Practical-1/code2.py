@@ -1,4 +1,4 @@
-# conditional statements
+# 1. Conditional Statements in python
 # if statement
 a = int(input("Enter a number: "))
 if a > 0:
@@ -12,7 +12,7 @@ else:
     print("Not a Leap Year")
 
 
-# loops in python
+# 2. Loops in python
 # for loop
 print("For loop")
 for i in range(1, 10):
@@ -26,9 +26,9 @@ while i < 10:
     i += 1
 
 
-# functions in python
+# 3. Functions in python
 def add(a, b):
     return a + b
 
 
-print("Using functions sum of two number is", add(2, 3))
+print("Using functions sum of two numbers are", add(2, 3))
