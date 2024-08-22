@@ -1,0 +1,6 @@
+pandas
+pyttsx3
+speechRecognition
+pyaudio
+setuptools
+wikipedia
